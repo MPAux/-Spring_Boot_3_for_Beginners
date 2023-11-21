@@ -1,0 +1,8 @@
+
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¢œ¹Þûÿÿÿÿ8‚ŠØ´¢1
+€
+java:S1128"^Remove this unused import 'com.luv2code.springboot.thymeleafdemo.service.EmployeeServiceImpl'.(çÍ§¢úÿÿÿÿ8‚ŠØ´¢1
+_
+java:S1128"=Remove this unused import 'jakarta.annotation.PostConstruct'.(û²ñüþÿÿÿÿ8‚ŠØ´¢1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ƒŠØ´¢1

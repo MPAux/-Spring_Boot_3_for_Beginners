@@ -1,0 +1,42 @@
+
+N
+java:S1602",Remove useless curly braces around statement(¸éâçıÿÿÿÿ8­Šö¼ 1
+]	java:S125"<This block of commented-out lines of code should be removed.(Àİ† ÿÿÿÿÿ8ôÏ„¼ 1
+]	java:S125"<This block of commented-out lines of code should be removed.(şÑüØüÿÿÿÿ8¯Šö¼ 1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ñµÁ£8õÏ„¼ 1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¦â£ªùÿÿÿÿ8õÏ„¼ 1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(È¾Ù›ûÿÿÿÿ8öÏ„¼ 1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(–àïú8öÏ„¼ 1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ù²è×ıÿÿÿÿ8öÏ„¼ 1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(³——Œ8÷Ï„¼ 1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ÓÍÍØÿÿÿÿÿ8øÏ„¼ 1
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ÓÍÍØÿÿÿÿÿ8ùÏ„¼ 1
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(‚¤ò³8ùÏ„¼ 1
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(“çšÆ8úÏ„¼ 1
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(è¡–Ç8úÏ„¼ 1
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(ŒÍìüÿÿÿÿ8úÏ„¼ 1
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(ïÒÁ½ùÿÿÿÿ8ûÏ„¼ 1
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(Èš¹Ä8üÏ„¼ 1
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(œôìú8üÏ„¼ 1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(Í¢Ğ­8üÏ„¼ 1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(Ú›÷ê8üÏ„¼ 1
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(Æúï’ûÿÿÿÿ8üÏ„¼ 1
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(ç¿¢á8ıÏ„¼ 1
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(‚¤ò³8ıÏ„¼ 1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(ÀáïŞùÿÿÿÿ8ıÏ„¼ 1
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(‚ÀÑ–8şÏ„¼ 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÜÜ58Ö“…¼ 1
+S
+java:S1144!"6Remove this unused private "deleteAllStudents" method.(Çş±Ÿ8“Şô¼ 1
+T
+java:S1144'"2Remove this unused private "deleteStudent" method.(¢‘£¸şÿÿÿÿ8şÏ„¼ 1
+N
+java:S1144-"2Remove this unused private "updateStudent" method.(ÓŒZ8şÏ„¼ 1
+[
+java:S1144>"?Remove this unused private "queryForStudentsByLastName" method.(Ê‰8şÏ„¼ 1
+R
+java:S1144G"5Remove this unused private "queryForStudents" method.(ˆòÓÇ8şÏ„¼ 1
+M
+java:S1144P"0Remove this unused private "readStudent" method.(ûÂßâ8şÏ„¼ 1
+T
+java:S1144x"2Remove this unused private "createStudent" method.(¼‚Úøùÿÿÿÿ8şÏ„¼ 1

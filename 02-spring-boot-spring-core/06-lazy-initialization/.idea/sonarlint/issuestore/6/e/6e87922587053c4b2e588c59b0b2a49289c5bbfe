@@ -1,0 +1,6 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àñ€8Íı»ú1
+Q
+java:S1128"/Remove this unused import 'jdk.jfr.Percentage'.(Å¿æèûÿÿÿÿ8‚ïàù1
+h
+java:S1128"KRemove this unused import 'org.springframework.context.annotation.Primary'.(“ğ›ß8Ş¬ú1

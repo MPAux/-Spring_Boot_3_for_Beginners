@@ -1,0 +1,9 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àñ€8×„ùû1
+n
+java:S1128"LRemove this unused import 'com.luv2code.springcoredemo.common.CricketCoach'.(ú©øÂúÿÿÿÿ8™Å†ü1
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8šÅ†ü1
+k
+java:S1128
+"NRemove this unused import 'org.springframework.web.servlet.view.RedirectView'.(ñÎ²Ò8šÅ†ü1

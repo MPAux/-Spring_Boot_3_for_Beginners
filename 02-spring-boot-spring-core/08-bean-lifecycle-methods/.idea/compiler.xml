@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="06-lazy-initialization" />
+        <module name="08-bean-lifecycle-methods" />
+        <module name="03-setter-injection" />
+        <module name="04-qualifiers" />
+        <module name="05-primary" />
+        <module name="springcoredemo" />
+        <module name="02-component-scanning" />
+        <module name="07-bean-scopes" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="02-component-scanning" options="-parameters" />
+      <module name="03-setter-injection" options="-parameters" />
+      <module name="04-qualifiers" options="-parameters" />
+      <module name="05-primary" options="-parameters" />
+      <module name="06-lazy-initialization" options="-parameters" />
+      <module name="07-bean-scopes" options="-parameters" />
+      <module name="08-bean-lifecycle-methods" options="-parameters" />
+      <module name="springcoredemo" options="-parameters" />
+    </option>
+  </component>
+</project>

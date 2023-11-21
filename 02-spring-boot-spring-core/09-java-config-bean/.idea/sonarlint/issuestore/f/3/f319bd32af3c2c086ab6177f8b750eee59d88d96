@@ -1,0 +1,8 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àñ€8ş­ºèŸ1
+_
+java:S1128"=Remove this unused import 'jakarta.annotation.PostConstruct'.(û²ñüşÿÿÿÿ8õÆŒéŸ1
+W
+java:S1128":Remove this unused import 'jakarta.annotation.PreDestroy'.(÷¡ƒ8õÆŒéŸ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8€®ºèŸ1
